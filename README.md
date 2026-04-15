@@ -139,13 +139,6 @@ CLIENT A                                CLIENT B
 - [`cryptography`](https://cryptography.io/en/latest/) — RSA, AES, HMAC primitives (Apache 2.0 License)
 - Python standard library: `socket`, `threading`, `json`, `os`, `hashlib`, `hmac`, `base64`
 
----
-
-## GitHub Repository
-
-Upload this project to a GitHub repository and include the link in your report.
-
----
 
 ## References
 
